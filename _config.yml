@@ -1,0 +1,28 @@
+name: Silarion
+favicon: null
+layout_spectrum: 0.031197790754958987
+typography_spectrum: 0.5003732244949788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.611370483879
+  lightness: 0.9339808286167681
+  saturation: 0.7414041000884026
+  rhythmicContrast: 0.5915466416627169
+purpose: []
