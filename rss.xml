@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ideas that work! Professional IT Consultancy services]]></title>
+        <description><![CDATA[Ideas that work! Professional IT Consultancy services]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 21:10:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Silarion Ltd was founded in 2004 to provide software development services for creating bespoke business systems and applications to support different business areas and their customers. Clients include, Ericsson, T-Mobile, Guy's & St. Thomas NHS Foundation Trust, Movianto UK (Owens & Minor).</p>]]></description>
+            <link>undefinedsilarion-ltd-was-founded-in-2004-to-provide-software-develop/index.html</link>
+            <guid isPermaLink="false">5e8c3f2c-fe5e-4eb3-8019-3a82cfc0c3b7</guid>
+            <pubDate>Sun, 15 May 2016 21:10:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
